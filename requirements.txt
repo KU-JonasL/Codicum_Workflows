@@ -1,0 +1,4 @@
+# Only needed for local simulation / development.
+# Protocols run on the OT-2 via the Opentrons App and need no local install.
+# Pick an opentrons version that supports the protocols' apiLevel (2.22-2.27).
+opentrons

@@ -1,0 +1,9 @@
+# Normalise line endings for text files (LF in repo, native on checkout)
+* text=auto
+
+# Binary assets
+*.pdf  binary
+*.docx binary
+*.xlsx binary
+*.png  binary
+*.jpg  binary
